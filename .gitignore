@@ -1,0 +1,18 @@
+# KiCad: backups, lock files, personal view settings, caches
+*-backups/
+*.lck
+*.kicad_prl
+fp-info-cache
+_autosave-*
+
+# Fabrication outputs: attach these to GitHub Releases instead
+# (Fabrication Toolkit writes to a "production" folder)
+production/
+
+# Arduino / build output
+build/
+
+# Windows and editor junk
+Thumbs.db
+desktop.ini
+.vscode/
