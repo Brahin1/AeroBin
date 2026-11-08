@@ -6742,7 +6742,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 109.22 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -6765,6 +6765,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 104.14 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 104.14 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -6899,7 +6910,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 160.9852 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -6922,6 +6933,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 160.02 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 160.02 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -7060,7 +7082,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 96.52 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -7083,6 +7105,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 91.44 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 91.44 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -7217,7 +7250,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 209.042 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -7240,6 +7273,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 210.82 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 210.82 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -7297,7 +7341,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810"
 			(at 222.25 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -7320,6 +7364,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 222.25 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C116501"
 			(at 222.25 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -7512,6 +7567,17 @@
 		)
 		(property "LCSC Part" "C41349510"
 			(at 254 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 254 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7723,7 +7789,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 207.772 80.01 90)
 			(hide yes)
 			(show_name no)
@@ -7746,6 +7812,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 209.55 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 209.55 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -7881,7 +7958,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "aerobin:LED-SMD_L1.7-W0.6-RD"
 			(at 88.9 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -7915,6 +7992,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 88.9 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C125113"
 			(at 88.9 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -8050,7 +8138,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 71.12 33.528 90)
 			(hide yes)
 			(show_name no)
@@ -8074,6 +8162,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 71.12 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 71.12 31.75 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8130,7 +8229,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810"
 			(at 224.79 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -8153,6 +8252,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 224.79 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C116501"
 			(at 224.79 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -8290,7 +8400,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 177.4952 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -8313,6 +8423,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 176.53 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 176.53 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -8372,7 +8493,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 30.48 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -8395,6 +8516,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 25.4 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 25.4 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -8450,7 +8582,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 214.63 70.358 90)
 			(hide yes)
 			(show_name no)
@@ -8473,6 +8605,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 214.63 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 214.63 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -8608,7 +8751,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 148.59 28.2448 0)
 			(hide yes)
 			(show_name no)
@@ -8632,6 +8775,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 144.78 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 144.78 29.21 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8690,7 +8844,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 223.2152 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -8713,6 +8867,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 222.25 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 222.25 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -8772,7 +8937,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 233.3752 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -8795,6 +8960,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 232.41 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 232.41 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -8852,7 +9028,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 119.38 69.088 90)
 			(hide yes)
 			(show_name no)
@@ -8876,6 +9052,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 119.38 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 119.38 67.31 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8932,7 +9119,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 71.12 39.878 90)
 			(hide yes)
 			(show_name no)
@@ -8956,6 +9143,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 71.12 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 71.12 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9125,6 +9323,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C190004"
+			(at 165.1 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "ef244f4f-edf0-4a0e-ae66-b2a8d9a7e48c")
 		)
@@ -9282,7 +9491,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 71.12 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -9305,6 +9514,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 66.04 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 66.04 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -9396,6 +9616,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C424093"
+			(at 119.38 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "0af7cb0e-cc91-4d00-9a0c-2cecc53a1543")
 		)
@@ -9452,7 +9683,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 226.06 113.538 90)
 			(hide yes)
 			(show_name no)
@@ -9476,6 +9707,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 226.06 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 226.06 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9570,6 +9812,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C7519"
+			(at 68.58 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "0c7a32b2-06a1-47dc-be0e-8633b7ee11cd")
 		)
@@ -9631,7 +9884,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 232.1052 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -9654,6 +9907,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 231.14 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 231.14 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -9713,7 +9977,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 89.662 105.41 90)
 			(hide yes)
 			(show_name no)
@@ -9736,6 +10000,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 91.44 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 91.44 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -9795,7 +10070,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 44.45 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -9818,6 +10093,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 39.37 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 39.37 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -9872,7 +10158,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 148.59 44.7548 0)
 			(hide yes)
 			(show_name no)
@@ -9896,6 +10182,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 144.78 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 144.78 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9952,7 +10249,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 224.79 32.0548 0)
 			(hide yes)
 			(show_name no)
@@ -9976,6 +10273,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 220.98 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 220.98 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10089,6 +10397,17 @@
 		)
 		(property "LCSC Part" "C841192"
 			(at 199.39 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 199.39 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10235,7 +10554,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 172.4152 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -10258,6 +10577,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 171.45 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 171.45 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -10315,7 +10645,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
 			(at 36.83 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -10338,6 +10668,17 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 33.02 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C3020560"
 			(at 33.02 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -10517,7 +10858,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 142.24 122.428 90)
 			(hide yes)
 			(show_name no)
@@ -10541,6 +10882,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 142.24 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 142.24 120.65 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10596,7 +10948,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 142.24 119.888 90)
 			(hide yes)
 			(show_name no)
@@ -10620,6 +10972,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 142.24 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 142.24 118.11 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10678,7 +11041,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 83.82 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -10701,6 +11064,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 78.74 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 78.74 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -10836,7 +11210,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 103.8352 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -10859,6 +11233,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 102.87 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 102.87 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -10916,7 +11301,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 99.06 90.678 90)
 			(hide yes)
 			(show_name no)
@@ -10940,6 +11325,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 99.06 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 99.06 88.9 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11152,7 +11548,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 139.7 127.508 90)
 			(hide yes)
 			(show_name no)
@@ -11176,6 +11572,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 139.7 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 139.7 125.73 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11232,7 +11639,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 142.24 114.808 90)
 			(hide yes)
 			(show_name no)
@@ -11256,6 +11663,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 142.24 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 142.24 113.03 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11546,7 +11964,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal"
 			(at 111.76 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -11569,6 +11987,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 111.76 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C295747"
 			(at 111.76 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -11628,7 +12057,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 78.232 105.41 90)
 			(hide yes)
 			(show_name no)
@@ -11651,6 +12080,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 80.01 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 80.01 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -11788,7 +12228,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 57.15 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -11811,6 +12251,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 52.07 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 52.07 135.89 0)
 			(hide yes)
 			(show_name no)
