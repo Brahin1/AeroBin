@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "aerobin") (type "KiCad") (uri "C:/Users/Brahin/Desktop/Verizon Comp/AeroBin_Repo/Hardware/lib/aerobin.pretty") (options "") (descr ""))
+)
